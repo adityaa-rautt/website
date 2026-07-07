@@ -2,4 +2,4 @@
 
 Single page Portfolio made using HTML, CSS, JavaScript and JQUERY
 
-Site online at: https://penguine25.github.io/website/
+Site online at: https://adityaa-rautt.github.io/website/
